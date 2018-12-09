@@ -1,0 +1,108 @@
+body{
+    font-size: large;
+}
+
+.footer{
+    margin-top: 20px;
+    padding: 15px 80px 0px 80px;
+    background-color: #337ab7;
+    border-radius: 4px;
+    border: 1px solid; 
+    border-color: #e7e7e7;
+    color: white;
+    font-size: medium;
+}
+
+.footer a{
+    color: white;
+}
+
+.footer a:hover{
+}
+
+.tieude{
+    font-size: xx-large;
+}
+
+.tieude:hover{
+    color: #ff5e57;
+    text-decoration: none;
+}
+
+.truyen{
+    margin-bottom: 20px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #e7e7e7;
+    padding: 15px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.dangnhap{
+    padding: 25px 50px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #e7e7e7;
+}
+
+.sotrang{
+    color: #337ab7;
+    background-color: #f8f8f8;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 4px;
+    margin-bottom: 100px;
+}
+
+.sotrangdangchon{
+    color: white;
+    background-color: #337ab7;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 4px;
+    margin-bottom: 100px;
+}
+
+.sotrang:hover{
+    text-decoration: none;
+}
+
+.sotrangdangchon:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.timkiem{
+    color: #337ab7;
+    font-size: x-large;
+}
+
+.tieudequanly{
+    font-size: xx-large;
+    color: #337ab7;
+    text-align: center;
+}
+
+.dangxuat{
+    cursor: pointer;
+}
+
+.tieudetruyen{
+    color: #337ab7;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#goTop{
+    display:none;
+    position:fixed;
+    bottom:50px;
+    right:20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: #337ab7;
+}
